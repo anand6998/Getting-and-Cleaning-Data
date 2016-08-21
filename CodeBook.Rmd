@@ -1,0 +1,94 @@
+---
+title: "Code Book"
+output: html_document
+---
+
+Description of data in tidy.txt
+
+**Identifiers**
+
+- SubjectId : Id of subject performing the activity
+- Activity : One of (SITTING, STANDING, LAYING, WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS)
+
+
+**Measures**
+
+- timeBodyAccMeanX
+- timeBodyAccMeanY
+- timeBodyAccMeanZ
+- timeBodyAccStdX
+- timeBodyAccStdY
+- timeBodyAccStdZ
+- timeGravityAccMeanX
+- timeGravityAccMeanY
+- timeGravityAccMeanZ
+- timeGravityAccStdX
+- timeGravityAccStdY
+- timeGravityAccStdZ
+- timeBodyAccJerkMeanX
+- timeBodyAccJerkMeanY
+- timeBodyAccJerkMeanZ
+- timeBodyAccJerkStdX
+- timeBodyAccJerkStdY
+- timeBodyAccJerkStdZ
+- timeBodyGyroMeanX
+- timeBodyGyroMeanY
+- timeBodyGyroMeanZ
+- timeBodyGyroStdX
+- timeBodyGyroStdY
+- timeBodyGyroStdZ
+- timeBodyGyroJerkMeanX
+- timeBodyGyroJerkMeanY
+- timeBodyGyroJerkMeanZ
+- timeBodyGyroJerkStdX
+- timeBodyGyroJerkStdY
+- timeBodyGyroJerkStdZ
+- timeBodyAccMagnitudeMean
+- timeBodyAccMagnitudeStd
+- timeGravityAccMagnitudeMean
+- timeGravityAccMagnitudeStd
+- timeBodyAccJerkMagnitudeMean
+- timeBodyAccJerkMagnitudeStd
+- timeBodyGyroMagnitudeMean
+- timeBodyGyroMagnitudeStd
+- timeBodyGyroJerkMagnitudeMean
+- timeBodyGyroJerkMagnitudeStd
+- freqBodyAccMeanX
+- freqBodyAccMeanY
+- freqBodyAccMeanZ
+- freqBodyAccStdX
+- freqBodyAccStdY
+- freqBodyAccStdZ
+- freqBodyAccMeanFreqX
+- freqBodyAccMeanFreqY
+- freqBodyAccMeanFreqZ
+- freqBodyAccJerkMeanX
+- freqBodyAccJerkMeanY
+- freqBodyAccJerkMeanZ
+- freqBodyAccJerkStdX
+- freqBodyAccJerkStdY
+- freqBodyAccJerkStdZ
+- freqBodyAccJerkMeanFreqX
+- freqBodyAccJerkMeanFreqY
+- freqBodyAccJerkMeanFreqZ
+- freqBodyGyroMeanX
+- freqBodyGyroMeanY
+- freqBodyGyroMeanZ
+- freqBodyGyroStdX
+- freqBodyGyroStdY
+- freqBodyGyroStdZ
+- freqBodyGyroMeanFreqX
+- freqBodyGyroMeanFreqY
+- freqBodyGyroMeanFreqZ
+- freqBodyAccMagnitudeMean
+- freqBodyAccMagnitudeStd
+- freqBodyAccMagnitudeMeanFreq
+- freqBodyAccJerkMagnitudeMean
+- freqBodyAccJerkMagnitudeStd
+- freqBodyAccJerkMagnitudeMeanFreq
+- freqBodyGyroMagnitudeMean
+- freqBodyGyroMagnitudeStd
+- freqBodyGyroMagnitudeMeanFreq
+- freqBodyGyroJerkMagnitudeMean
+- freqBodyGyroJerkMagnitudeStd
+- freqBodyGyroJerkMagnitudeMeanFreq
